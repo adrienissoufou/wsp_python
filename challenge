@@ -1,7 +1,10 @@
-# challenge 001
-# Ask for the user’s first name and display the output message.
-# Exemple : Hello [ First Name ]
+# challenge 002
+# Ask for the user’s first name 
+# and then ask for their surname and display the output message.
+# exemple :Hello [First name ] [surname]
 
-print ("----  Bonjour --- \n")
-name = input("intro NOM : ")
-print("Hello ",name)
+
+print("----- Hello --- ")
+firstName = input(" intro First name : ")
+surName   = input(" intro Surname : ")
+print("Hello ", firstName , surName)
