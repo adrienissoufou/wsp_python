@@ -9,4 +9,4 @@ nbrDiners = int(input("How many diners there are ? : "))
 
 part = total / nbrDiners
 
-print ("Everyone will pay", part )
+print ("Everyone will pay ", part ,"$.")

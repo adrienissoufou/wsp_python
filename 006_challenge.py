@@ -7,4 +7,4 @@
 print("-------- HEllo -----------")
 total = int(input("how many slices of pizza, you have ? : " ))
 eaten = int(input("How many slices, have you eat ? : "))
-print("you have left ",total-eaten," slices of pizza.")
+print("you have left ",total - eaten," slices of pizza.")
