@@ -1,0 +1,7 @@
+# challenge 001
+# Ask for the user’s first name and display the output message.
+# Exemple : Hello [ First Name ]
+
+print ("----  Bonjour --- \n")
+name = input("intro NOM : ")
+print("Hello ",name)
