@@ -37,9 +37,9 @@ print("adrien ISSOUFOU : ","adrien" + "ISSOUFOU" )
 print("adrien ISSOUFOU : ","adrien" + "ISSOUFOU") 
 
 
-print(" ---- strip : espace devant devant et devant ------ ")
+print(" ---- strip (TRIM): espace devant devant et devant ------ ")
 print("            adrien ISSOUFOU  \n", " adrien ISSOUFOU ".strip("") )
 
 
 print(" [7:10] string")
-print("Hello world"[7:11])
+print("Hello world"[7:10])
